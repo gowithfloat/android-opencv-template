@@ -1,4 +1,4 @@
-# android-opencv-template
+# [android-opencv-template](https://github.com/floatlearning/android-opencv-template)
 
 An [Android Studio](http://developer.android.com/sdk/index.html) template configured to use [OpenCV for Android](http://opencv.org/platforms/android.html).
 
