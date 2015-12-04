@@ -1,2 +1,2 @@
 language: android
-script: gradlew assembleDebug
+script: ./gradlew assembleDebug
