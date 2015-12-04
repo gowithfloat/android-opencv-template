@@ -1,0 +1,4 @@
+language: android
+before_install:
+  - brew update
+script: gradlew assembleDebug
