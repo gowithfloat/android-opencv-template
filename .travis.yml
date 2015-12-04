@@ -1,3 +1,7 @@
 language: android
+android:
+  components:
+    - build-tools-23.0.1
+    - android-14
 sudo: false
 script: ./gradlew assembleDebug
