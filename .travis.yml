@@ -1,2 +1,3 @@
 language: android
+sudo: false
 script: ./gradlew assembleDebug
