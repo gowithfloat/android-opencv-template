@@ -1,4 +1,4 @@
-# [android-opencv-template](https://github.com/floatlearning/android-opencv-template)
+# [android-opencv-template](https://github.com/gowithfloat/android-opencv-template)
 
 An [Android Studio](http://developer.android.com/sdk/index.html) template configured to use [OpenCV for Android](http://opencv.org/platforms/android.html).
 
@@ -10,4 +10,4 @@ Just [download this repository](https://github.com/floatlearning/android-opencv-
 
 # License
 
-&copy; 2014 [Float Mobile Learning](http://floatlearning.com/). Shared under an [MIT license](https://en.wikipedia.org/wiki/MIT_License). See [license.md](./license.md) for details.
+&copy; 2014 [Float](http://gowithfloat.com/). Shared under an [MIT license](https://en.wikipedia.org/wiki/MIT_License). See [license.md](./license.md) for details.
